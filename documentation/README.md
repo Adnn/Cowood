@@ -2,7 +2,8 @@
 
 ## Séquences techniques
 
-[Collage](sequences_techniques/collage.md)
+* [Collage](sequences_techniques/collage.md)
+* [Défonceuse](sequences_techniques/defonceuse.md)
 
 ## Nomenclature
 
