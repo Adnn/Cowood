@@ -1,5 +1,7 @@
 # Index
 
+Quelques notes sur [le bois](bois/README.md).
+
 ## Séquences techniques
 
 * [Collage](sequences_techniques/collage.md)
