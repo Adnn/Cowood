@@ -8,11 +8,17 @@
 
 ## Procédures pour coller
 
+Ecartement des dormants :
+  * Pour **un panneau**, ils doivents êtres proche du bord, afin de pouvoir serrer les calles transversales.
+  * Pour **un cadre**, les dormants doivent être en faces des traverses.
+
 Mettres les dormants parallèles en utilisant le mètre au deux extrémités.
 
 Vérifier le gauche des dormant en lorgnant et en parcourant la ligne de chacun des dormants. Se tenir la tête pour limiter les mouvement involontaires.
 
 > :warning: **TIP** Toujours faire un assemblage à blanc (sans colle) complet avant, incluant les serres joints. Tout sera en place comme ça au moment de coller.
+
+> **TIP** Les calles parallèles (parallèles aux planches, en contact avec les dormants) sont optionnelles. Normalement un panneau doit être recoupé par le suite ! (pas besoin de protéger).
 
 > :warning: **TIP** N'encoller qu'un seul chant par joint. Cela evite les sur-épaisseurs, et simplifie les manipulations propres.
 
@@ -21,7 +27,7 @@ Vérifier le gauche des dormant en lorgnant et en parcourant la ligne de chacun 
 | IMPORTANT : Orienter le cintrage des calles pour assurer une surface d'appui maximale. |
 | --- |
 
-| IMPORTANT : Si on colle au polyuréthane, parafinner avant tout ce qui ne doit pas être collé (dormants, calles). |
+| IMPORTANT : Paraffiner avant tout ce qui ne doit pas être collé (dormants, calles). Surtout si on colle au polyuréthane. |
 | --- |
 
 
@@ -36,18 +42,30 @@ Vérifier le gauche des dormant en lorgnant et en parcourant la ligne de chacun 
 
 * Encoller d'un coup tous les champs qui sont ainsi bien alignés.
 
-> **TIP** Les calles parallèles (parallèles aux planches, en contact avec les dormants) sont optionnelles. Normalement un panneau doit être recoupé par le suite ! (pas besoin de protéger).
+  > **TIP** Encoller les chants avant de mettre les lamellos.
+  > Etaler une couche de colle pas trop épaisse, mais qui blanchit tout le chant.
 
-> **TIP** Mettre du papier est déconseillé pour la colle blanche. Elle n'adhère pas au métal, les éventuelles marques partent au ponçage. En revanche du papier qui se coince dans un joint par difficilement.
+  > **TIP** Mettre du papier est déconseillé pour la colle blanche. Elle n'adhère pas au métal, les éventuelles marques partent au ponçage. En revanche du papier qui se coince dans un joint par difficilement.
+
+  La bonne quantité de colle vient légèrement perler une fois le serrage effectué.
+
+  ![Image](media/collage_perlage_colle.jpg)
 
 * Assembler:
   * placer les chants côte à côte un par un sur les dormants
   * mettre les presses des dormants au contact
-  * mettres les calles transversalles (qui évitent le cintrage) et leur serre joint au contact
+  * mettres les calles transversales (qui évitent le cintrage) et leur serre joint au contact
   * serrer les presses des dormants
   * serre les serres joints des calles transversales.
 
 * Vérifier le gauche : regarder si le panneau est bien en contact tout le long des dormants (en particulier aux coins). Donner un coup sec de marteau **avec calle** si besoin.
+
+* On peut venir rajouter des serres-joints parallèles aux dormants.
+
+  | IMPORTANT : Les barres des serres joints au contacts des calles ou du panneau. Serrer modérément. |
+  | --- |
+
+  ![Image](media/collage_serre_joints_paralleles.jpg)
 
 
 
@@ -56,11 +74,16 @@ Vérifier le gauche des dormant en lorgnant et en parcourant la ligne de chacun 
 
 * Serrer au niveau des traverses (et pas entre).
 
-* Un fois le serrage commencé, vérifier l'équerrage du cadre.
+  > **TIP** Il est possible de coller plusieurs cadre identiques dans les mêmes dormants.
 
-> :information_source: **TECHNIQUE pour vérifier l'équerrage d'un cadre** :
-> Mesurer les deux diagonales, reporter les dimensions relative sur les doigts type "cadre de visée", observer quelle correction doit être apporter pour aller vers l'équerre.
+* Au fur et à mesure du serrage :
 
+  * vérifier l'équerrage du cadre.
+
+    > :information_source: **TECHNIQUE pour vérifier l'équerrage d'un cadre** :
+    > Mesurer les deux diagonales, reporter les dimensions relative sur les doigts type "cadre de visée", observer quelle correction doit être apporter pour aller vers l'équerre.
+
+  * vérfier le gauche (i.e. que les cadres restent bien au contact des dormants). Donner un coup sec de marteau avec la calle si besoin.
 
 ### Coller un angle
 
