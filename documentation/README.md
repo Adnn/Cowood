@@ -6,6 +6,7 @@ Quelques notes sur [le bois](bois/README.md).
 
 * [Collage](sequences_techniques/collage.md)
 * [Défonceuse](sequences_techniques/defonceuse.md)
+* [Ciseaux à bois](sequences_techniques/ciseaux.md)
 
 ## Méthodes
 
