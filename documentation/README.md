@@ -11,6 +11,7 @@ Quelques notes sur [le bois](bois/README.md).
 ## Méthodes
 
 * [Débit](methodes/debit.md)
+* [Domino](methodes/domino.md)
 * [Mi-bois](methodes/mibois.md)
 
 ## Nomenclature
